@@ -1,0 +1,9 @@
+
+{
+  "name": "جنبك (Janbak)",
+  "description": "تطبيق تواصل صوتي ونصي يعتمد على القرب الجغرافي، يتيح لك التحدث والدردشة مع الأشخاص المتواجدين في نطاق 250 متر فقط.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
